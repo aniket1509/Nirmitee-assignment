@@ -1,0 +1,39 @@
+.preImage-position {
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.file-position {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="file"] {
+    font-size: 28px;
+    padding: 20px;
+}
+
+.img-styling {
+    height: 500px;
+    width: 400px;
+}
+
+.remove-image {
+    display: flex;
+    width: 10%;
+    font-size: 15px;
+    color: white;
+    margin-left: 15px;
+    padding: 8px 16px;
+    background: rgb(195, 10, 19);
+    border-radius: 8px;
+}
+
+.remove-image:hover {
+    background-color: red;
+}

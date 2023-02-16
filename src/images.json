@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "icon": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ym9va3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        "caption": "So many books, so little time"
+    },
+    {
+        "id": 2,
+        "icon": "https://images.ctfassets.net/kdawwlsweh27/2LtummpjO849eQ83yGGiUN/b33c73279163c84b65241cdfcc1c8844/Fresh_Stock_Content.jpg",
+        "caption": "The great artist is the simplifier."
+    },
+    {
+        "id": 3,
+        "icon": "https://www.gettyimages.in/gi-resources/images/500px/983801190.jpg",
+        "caption": "Life looks better underwater"
+    },
+    {
+        "id": 4,
+        "icon": "https://static.freeimages.com/images/home/filetypes/photo.png",
+        "caption": "A good cover has a distinct silhouette."
+    },
+    {
+        "id": 5,
+        "icon": "https://media.istockphoto.com/id/1296913338/photo/sonoran-sunset.jpg?s=612x612&w=0&k=20&c=lGXd-vnDmH_bCnR53BNmwxsh3qn8MBLQoh5M926QAbY=",
+        "caption": "Wanderlust and desert dust"
+    },
+    {
+        "id": 6,
+        "icon": "https://bd.gaadicdn.com/processedimages/royal-enfield/classic350/source/classic350612f277880878.jpg",
+        "caption": "Made like a gun, goes like a bullet"
+    }
+]
